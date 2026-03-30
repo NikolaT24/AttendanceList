@@ -42,9 +42,7 @@ At its core, the system uses **LaTeX3 (`expl3`)** to generate table rows program
 ```latex
 \int_set:Nn \l__att_rows_int {88}
 
-<div align="center">
-👤 Author
-
-Nikola Topalov
-
-</div> ``
+<p align="center">
+  <b>👤 Author</b><br>
+  Nikola Topalov
+</p>
