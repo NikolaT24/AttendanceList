@@ -44,5 +44,5 @@ At its core, the system uses **LaTeX3 (`expl3`)** to generate table rows program
 ```
 
 <p align="center">
-  <b>👤 Author:</b><br> Nikola Topalov
+  <b>👤 Author:</b> Nikola Topalov
 </p>
