@@ -43,8 +43,8 @@ At its core, the system uses **LaTeX3 (`expl3`)** to generate table rows program
 \int_set:Nn \l__att_rows_int {88}
 
 <div align="center">
+👤 Author
 
-### 👤 Author  
 Nikola Topalov
 
-</div>
+</div> ``
